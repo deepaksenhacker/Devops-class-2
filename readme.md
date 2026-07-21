@@ -33,3 +33,7 @@
 - to up-to-date local branch with the Remote Branch
 
 `git pull`
+
+# When u need the branch with create
+
+`git branch -b branchName`
