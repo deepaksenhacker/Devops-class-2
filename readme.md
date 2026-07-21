@@ -37,3 +37,6 @@
 # When u need the branch with create
 
 `git branch -b branchName`
+
+# change branch
+`git checkout branchname`
