@@ -20,6 +20,7 @@
 - to publish your branch 
 
 `git push --set-upstream origin branchname`
+`git push -u origin branchName`
 
 - Local Branch to set upstream 
 
@@ -40,3 +41,5 @@
 
 # change branch
 `git checkout branchname`
+
+
