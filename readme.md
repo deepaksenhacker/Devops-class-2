@@ -35,11 +35,16 @@
 
 `git pull`
 
-# When u need the branch with create
+## When u need the branch with create
 
 `git branch -b branchName`
 
-# change branch
+## change branch
 `git checkout branchname`
 
 
+## to get the changes github to on local 
+-Select Branch 
+- `git checkout main`
+- Pull Changes
+- `git pull`
