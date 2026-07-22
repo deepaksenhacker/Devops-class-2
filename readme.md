@@ -48,3 +48,4 @@
 - `git checkout main`
 - Pull Changes
 - `git pull`
+- `git pull origin main`
