@@ -20,6 +20,7 @@
 - to publish your branch 
 
 `git push --set-upstream origin branchname`
+`git push -u origin branchName`
 
 - Local Branch to set upstream 
 
@@ -33,3 +34,12 @@
 - to up-to-date local branch with the Remote Branch
 
 `git pull`
+
+# When u need the branch with create
+
+`git branch -b branchName`
+
+# change branch
+`git checkout branchname`
+
+
